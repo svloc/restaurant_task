@@ -1,0 +1,89 @@
+body{
+  background:#F8F8FF;
+  
+}
+
+
+.row-header{
+margin:0px auto;
+padding:0px;
+}
+.row-content {
+margin:0px auto;
+padding: 50px 0px 50px 0px;
+border-bottom: 1px ridge;
+min-height:400px;
+}
+.footer{
+background-color: #D1C4E9;
+margin:0px auto;
+padding: 20px 0px 20px 0px;
+}
+.img-thumb {
+    padding: .25rem;
+    border-radius: .25rem;
+    max-width: 50%;
+	height: auto;
+}
+.jumbotron {
+padding:70px 30px 70px 30px;
+margin:0px auto;
+background:#000000 ;
+color:floralwhite;
+}
+.address{
+font-size:80%;
+margin:0px;
+color:#0f0f0f;
+}
+.carousel-caption {
+    position: absolute;
+    /* right: 15%; */
+    bottom: 20px;
+    left: 43%;
+    z-index: 10;
+
+    padding-bottom: 60px;
+    color: #fff;
+    text-align: center;
+}
+
+body{
+padding:50px 0px 0px 0px;
+z-index:0;
+}
+.navbar-dark {
+background-color: #512DA8;
+}
+.reservation-card-header {
+  background-color: #fdc02f;
+}
+.carousel {
+background:#512DA8;
+}
+.carousel-item {
+height: 300px;
+}
+.carousel-item img {
+position: absolute;
+top: 0;
+left: 0;
+min-height: 300px;
+}
+#carouselButton {
+right:0px;
+position: absolute;
+bottom: 0px;
+z-index: 1;
+}
+.modal-header {
+  background-color: #512da8; }
+.modal-header .modal-title {
+    color: floralwhite; }
+.modal-header .close {
+    color: floralwhite; }
+.modal-header .close:hover {
+  color: #d1c4e9 !important; }
+
+.modal-body {
+  background-color: #d1c4e9; }
